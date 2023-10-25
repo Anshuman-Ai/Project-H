@@ -1,0 +1,1 @@
+print("get Ready to make ai")
